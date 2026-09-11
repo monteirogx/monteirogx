@@ -10,8 +10,6 @@ Construindo base em Machine Learning e análise de dados, com interesse particul
 
 - **Fundamentos**: Python, pandas, estatística aplicada
 - **CS50x (Harvard)** — pensamento computacional e algoritmos
-- **Machine Learning supervisionado e não supervisionado** — regressão, clusterização, validação
-- Documentando o que aprendo em uma base de conhecimento estruturada no Obsidian
 
 ---
 
