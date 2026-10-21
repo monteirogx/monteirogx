@@ -19,7 +19,7 @@ Construindo base em Machine Learning e análise de dados, com interesse particul
 |---|---|---|
 | **FarmTech Solutions** | Predição de rendimento de safra com cinco modelos de regressão, clusterização de regimes climáticos e dimensionamento de infraestrutura AWS. Inclui análise crítica sobre o R² enganoso do dataset. | `Python` `scikit-learn` `pandas` `AWS` |
 | **Sompo Predict** | Sistema de manutenção preventiva para maquinário agrícola. API com autenticação, persistência em banco relacional e dashboard de monitoramento. | `FastAPI` `SQLite` `Streamlit` |
-| **Monitor de Validade** | Sistema de acompanhamento de datas de vencimento de produtos, motivado por um problema real de operação de varejo. | `Python` |
+
 
 ---
 
